@@ -28,7 +28,7 @@ const Task = ({ task }: { task: ITask }) => {
   };
 
   // Handle deletion of task
-  const handleDeleteTask = async (id: number | undefined) => {
+  const handleDeleteTask = async (id: any) => {
     await deleteTodo(id);
     setOpenModalDeleted(false);
     router.refresh();
