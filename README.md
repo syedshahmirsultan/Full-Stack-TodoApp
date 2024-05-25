@@ -1,7 +1,9 @@
 # 📝 FULL-STACK TODO App
 This project is a Full-Stack Todo App that performs CRUD operations. It consists of two parts: the frontend, where the UI is connected with the APIs, and the backend, where the APIs for CRUD operations are created.
 
+
 ## 📦 FRONTEND BUILT WITH
+
 • [Next.js 14.2](https://nextjs.org/docs)  
 • [TypeScript](https://www.typescriptlang.org/)  
 • [DaisyUI](https://daisyui.com/)  
@@ -10,7 +12,19 @@ This project is a Full-Stack Todo App that performs CRUD operations. It consists
 For the frontend, I use Next.js as a TypeScript framework and TypeScript as the programming language. DaisyUI components are used to save time and make the website more functional, 
 and React-Icons are used to enhance the visual appeal of the website.
 
+
+
+
+
+
+
+
+https://github.com/syedshahmirsultan/Full-Stack-TodoApp/assets/115161841/1797bd35-022b-4cd9-adad-80b2671a7255
+
+
+
 ## 📦 BACKEND BUILT WITH
+
 • [Poetry](https://python-poetry.org/docs/)  
 • [FastAPI](https://fastapi.tiangolo.com/)  
 • [Python](https://www.python.org/)  
